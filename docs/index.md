@@ -1,6 +1,6 @@
-# IsaacStack
+# DroidStack
 
-Welcome to **IsaacStack** — a curated library of real-world, task-driven code examples and custom extensions for **NVIDIA Isaac Sim** and **Isaac Lab**.
+Welcome to **DroidStack** — a curated library of real-world, task-driven code examples and custom extensions for **NVIDIA Isaac Sim** and **Isaac Lab**.
 
 ---
 
@@ -29,7 +29,7 @@ Step-by-step workflows covering:
 
 ---
 
-## Contribute to IsaacStack
+## Contribute to DroidStack
 
 Do you have a custom Isaac Sim solution or extension you want to share?
 - Email a short tutorial or `.zip` to [your@email.com]
@@ -41,7 +41,7 @@ Do you have a custom Isaac Sim solution or extension you want to share?
 ## Stay Connected
 
 - GitHub: [github.com/inbarajaldrin](https://github.com/inbarajaldrin)
-- YouTube: [IsaacStack Tutorials](https://youtube.com/@isaacstack)
+- YouTube: [DroidStack Tutorials](https://youtube.com/@droidstack)
 - LinkedIn: [Aldrin Inbaraj](https://linkedin.com/in/aldrininbaraj)
 
 ---

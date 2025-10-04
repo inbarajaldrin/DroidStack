@@ -1,7 +1,7 @@
-site_name: IsaacStack
+site_name: DroidStack
 site_description: "Practical Isaac Sim and Isaac Lab code examples, extensions, and workflows."
 site_author: "Aldrin Inbaraj"
-site_url: https://isaacstack.github.io
+site_url: https://droidstack.github.io
 
 theme:
   name: material
@@ -28,7 +28,7 @@ nav:
   - Home: index.md
   - Blog:
       - Blog Home: blog/index.md
-      - Getting Started with IsaacStack: blog/post1.md
+      - Getting Started with DroidStack: blog/post1.md
       - Rigging the Robotiq 2F-85 Gripper: tutorials/post2.md
       - UR5e + Robotiq Extension: extensions/post3.md
   - Assets: assets/index.md
@@ -49,6 +49,7 @@ nav:
           - Import Gripper: snippets/gripper/import-gripper.md
           - Connect Gripper to Arm: snippets/gripper/connect-arm.md
       - Read USD Features:
+          - List Prims: snippets/state/list-prim.md
           - Transform: snippets/state/read-transform.md
           - Collision: snippets/state/read-collision.md
       - Camera:

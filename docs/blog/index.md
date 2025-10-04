@@ -5,7 +5,7 @@ hide:
 
 # Blog
 
-Welcome to the IsaacStack Blog — follow updates, tutorials, and insights here.
+Welcome to the DroidStack Blog — follow updates, tutorials, and insights here.
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to the IsaacStack Blog — follow updates, tutorials, and insights here.
 <!-- Post 1 -->
 <div class="blog-card">
   <img src="../assets/misc/logo.png" alt="Getting Started">
-  <h3>Getting Started with IsaacStack</h3>
+  <h3>Getting Started with DroidStack</h3>
   <p class="date">July 1, 2025</p>
   <p>Understand the purpose of this site and how to use snippets, assets, and extensions effectively.</p>
   <a href="post1/">Read More →</a>

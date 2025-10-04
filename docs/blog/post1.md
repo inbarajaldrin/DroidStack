@@ -3,13 +3,13 @@ hide:
   - toc
 ---
 
-# Getting Started with IsaacStack
+# Getting Started with DroidStack
 
 <small>July 2, 2025 &nbsp;&nbsp; Aldrin Inbaraj</small>
 
 ---
 
-Welcome to IsaacStack — a curated resource for Isaac Sim and Isaac Lab developers.
+Welcome to DroidStack — a curated resource for Isaac Sim and Isaac Lab developers.
 
 This site hosts:
 
@@ -23,7 +23,7 @@ Read on to set up your local environment and begin using this site.
 ...
 
 <script src="https://giscus.app/client.js"
-        data-repo="inbarajaldrin/IsaacStack"
+        data-repo="inbarajaldrin/DroidStack"
         data-repo-id="R_kgDOPFcbDA"
         data-category="Announcements"
         data-category-id="DIC_kwDOPFcbDM4CsZb2"
