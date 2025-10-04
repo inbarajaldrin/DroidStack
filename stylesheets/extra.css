@@ -1,0 +1,8 @@
+.md-content {
+    border-right: 1px solid #ccc;
+    padding-right: 2rem;
+}
+.md-sidebar--secondary {
+    border-left: 1px solid #ccc;
+    padding-left: 2rem;
+}
